@@ -1,0 +1,101 @@
+/*
+
+
+
+#c1bcbe
+*/
+.bar-line {
+ 	height:10px;
+ 	background: #c1bcbe;
+ }
+
+ .pploginform .form-control {
+ 	height:45px;
+ }
+
+.login-icon {
+	margin-left:10%;
+	width: 80%;
+	color:#c1bcbe;
+	font-size: 30px;
+	margin-top: -15px;
+	
+}
+.login-icon span.glyphicon {
+	margin-top:-15px;
+	text-align: center;
+	
+}
+.login-form {
+	box-shadow: 2px 4px 5px 2px #c1bcbe;
+	box-shadow: -1px -0.5px -3px -4px #c1bcbe;
+	padding: 50px;
+	background: #ffffff;
+}
+a.btn-danger {
+	background: #cd0808 !important;
+	color:#ffffff;
+	border-color: #990000 !important;
+	border-radius: 0;
+}
+
+a.btn-danger:hover {
+	background: #990000;
+	color:#ffffff;
+}
+button.btn-primary {
+	background: #c1bcbe !important;
+	color:#ffffff;
+	border-color: #c1bcbe !important;
+	border-radius: 0;
+}
+button.btn-primary:hover {
+	background: #c1bcbe;
+	color:#ffffff;
+
+}
+
+button.btn-purpose {
+	padding-right:10%;
+	padding-left: 10%;
+}
+
+
+.alert-success {
+	background: #7AC673 !important;
+	color:#ffffff !important;
+	min-height: 70px;
+	border-radius: 0 !important;
+}
+
+.alert-danger {
+	background: #e61505 !important;
+	color:#ffffff !important;
+	min-height: 70px;
+	border-radius: 0 !important;
+}
+
+.passwordrecovery-container form .form-control {
+	height: 45px;
+}
+
+.mbr-buttons--right {
+	margin-bottom: 50px;
+}
+
+.avatarbux {
+	float:right;
+	max-width: 85px;
+	height: 85px;
+	border:1px solid #c1bcbe;
+}
+.cls{
+	clear:both;
+}
+
+.forgot-pass {
+ color:  #c1bcbe;
+}
+span.glyphicon {
+	padding-right:10px;
+}

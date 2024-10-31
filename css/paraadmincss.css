@@ -1,0 +1,84 @@
+/*
+
+*/
+.ui-widget-content{
+	background: #fff !important;
+}
+.select-control {
+min-width: 250px;
+min-height: 100%;
+padding-right:20px;
+}
+
+.btn {
+	padding:0.3em 0.8em;
+	border:1px solid rgba(0,0,0,.1);
+	background:#58a linear-gradient(hsla(0, 0%, 100%, 0.2), transparent);
+	border-radius:0.2em;
+	box-shadow:0 .05em .25em rgba(0,0,0,.1);
+	color:#fff;
+	text-shadow:0 -.05em .05em rgba(0,0,0, .5);
+	font-size:125%;
+	line-height: 1.5;
+	
+	
+}
+
+.btn-red {
+	background-color:#c00;
+}
+.btn-green {
+	background-color:yellowgreen;
+}
+
+.btn-primary {
+	background:#00AFF0;
+}
+
+#ppdisplay_view_form {
+	width: 60%;
+}
+
+.form-row {
+	width: 100%;
+}
+
+.col-6 {
+	width: 45%;
+	float: left;
+	padding:20px;
+	margin-right: 20px;
+}
+table.pp-gen-setting-table {
+  padding: 40px;
+
+}
+table.pp-gen-setting-table tr {
+  padding: 40px;
+
+
+}
+table.pp-gen-setting-table tr td {
+  padding: 15px;
+
+}
+
+h4.set-h {
+	text-align: center;
+	text-decoration: underline;
+	font-weight: bolder;
+}
+
+#tabs input[type='text']{
+	width: 100%;
+	height: 40px;
+	padding:4px;
+}
+
+.more_con_setting {
+	border-top: 1px solid gray;
+}
+
+.cls{
+	clear: both;
+}
